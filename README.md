@@ -24,6 +24,7 @@ The analysis answers business questions such as:
 | [`customer_behaviour.sql`](customer_behaviour.sql) | SQL queries used to analyze customer behavior |
 | [`customer_shopping_behavior-checkpoint.csv`](customer_shopping_behavior-checkpoint.csv) | Customer shopping behavior dataset |
 | [`Customer_behaviour_analysis-checkpoint.ipynb`](Customer_behaviour_analysis-checkpoint.ipynb) | Jupyter Notebook checkpoint file |
+| [`Customer_behaviour_Dashboard.pbix`](Customer_behaviour_Dashboard.pbix) | Customer Behaviour PowerBI Dashboard |
 
 ## Dataset Features
 
