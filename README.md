@@ -173,18 +173,6 @@ Before performing analysis, it is recommended to:
 - Confirm that the CSV header matches the database table definition
 - Create age groups if the `age_group` column is not already available
 
-## Potential Improvements
-
-Future improvements could include:
-
-- Adding data-cleaning queries
-- Creating visualizations using Python, Matplotlib, or Seaborn
-- Building an interactive dashboard with Power BI or Tableau
-- Adding customer lifetime value analysis
-- Analyzing purchase frequency over time
-- Investigating relationships between discounts and customer retention
-- Adding automated data-quality checks
-- Replacing checkpoint files with a final cleaned notebook
 
 ## Author
 
